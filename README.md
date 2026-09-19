@@ -11,6 +11,7 @@ My work usually starts with a concrete workflow rather than a model demo: a garm
 | [LookRoom Studio](https://github.com/daizhetang-create/lookroom-studio) | Local-first AI apparel image workflow for small clothing businesses |
 | [Inkflow](https://github.com/daizhetang-create/inkflow) | Focus sessions and reading traces without turning attention into a scoreboard |
 | [Lighthouse QuantData](https://github.com/daizhetang-create/lighthouse-quantdata) | An auditable market-data control plane with lineage and quality gates |
+| [Fuxiang](https://github.com/daizhetang-create/fuxiang-app-public) | Voice-first AI idea garden with local demo mode and optional cloud sync |
 | [PetTI](https://github.com/daizhetang-create/petti) | A playful, explainable pet-behaviour profile experiment |
 | [Daydream Engine](https://github.com/daizhetang-create/daydream-engine) | A personal site about turning ambitious ideas into grounded action |
 
