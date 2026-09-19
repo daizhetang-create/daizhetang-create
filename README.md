@@ -12,6 +12,7 @@ My work usually starts with a concrete workflow rather than a model demo: a garm
 | [Inkflow](https://github.com/daizhetang-create/inkflow) | Focus sessions and reading traces without turning attention into a scoreboard |
 | [Lighthouse QuantData](https://github.com/daizhetang-create/lighthouse-quantdata) | An auditable market-data control plane with lineage and quality gates |
 | [Fuxiang](https://github.com/daizhetang-create/fuxiang-app-public) | Voice-first AI idea garden with local demo mode and optional cloud sync |
+| [Billion Heir](https://github.com/daizhetang-create/billion-heir-play) | A browser 3D game prototype combining a shopping challenge and racing mode |
 | [PetTI](https://github.com/daizhetang-create/petti) | A playful, explainable pet-behaviour profile experiment |
 | [Daydream Engine](https://github.com/daizhetang-create/daydream-engine) | A personal site about turning ambitious ideas into grounded action |
 
@@ -25,7 +26,7 @@ My work usually starts with a concrete workflow rather than a model demo: a garm
 ## Elsewhere
 
 - [Portfolio](https://daizhetang-create.github.io/jay-portfolio/)
-- [LinkedIn / contact](mailto:daizhe.tang@gmail.com)
+- [Email / contact](mailto:daizhe.tang@gmail.com)
 
 Most repositories here are prototypes or small products. Their READMEs explain the problem, the current boundary and how to run the project; they are not presented as production systems unless explicitly stated.
 
