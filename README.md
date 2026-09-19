@@ -9,9 +9,9 @@ My work usually starts with a concrete workflow rather than a model demo: a garm
 | Project | What it explores |
 | --- | --- |
 | [LookRoom Studio](https://github.com/daizhetang-create/lookroom-studio) | Local-first AI apparel image workflow for small clothing businesses |
-| [Inkflow](https://github.com/daizhetang-create/inkflow--) | Focus sessions and reading traces without turning attention into a scoreboard |
+| [Inkflow](https://github.com/daizhetang-create/inkflow) | Focus sessions and reading traces without turning attention into a scoreboard |
+| [Lighthouse QuantData](https://github.com/daizhetang-create/lighthouse-quantdata) | An auditable market-data control plane with lineage and quality gates |
 | [PetTI](https://github.com/daizhetang-create/petti) | A playful, explainable pet-behaviour profile experiment |
-| [Fuxiang](https://github.com/daizhetang-create/fuxiang-app) | Original-first notes and voice ideas with optional cloud sync |
 | [Daydream Engine](https://github.com/daizhetang-create/daydream-engine) | A personal site about turning ambitious ideas into grounded action |
 
 ## Working interests
@@ -27,3 +27,5 @@ My work usually starts with a concrete workflow rather than a model demo: a garm
 - [LinkedIn / contact](mailto:daizhe.tang@gmail.com)
 
 Most repositories here are prototypes or small products. Their READMEs explain the problem, the current boundary and how to run the project; they are not presented as production systems unless explicitly stated.
+
+Some in-progress work remains private while personal data, strategy notes and storage boundaries are being separated from the public code.
