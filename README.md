@@ -1,13 +1,18 @@
 # Jay Tang
 
-I build small, testable products at the boundary of AI, enterprise workflows and human attention.
+I build small, testable products at the boundary of AI, learning workflows and human attention.
 
-My work usually starts with a concrete workflow rather than a model demo: a garment seller who needs usable product images, a reader who needs a gentler focus loop, or a person who wants a clearer record of everyday decisions. I care about the last mile between a promising prototype and something another person can actually use.
+My work usually starts with a concrete workflow rather than a model demo: a student who needs a dependable classroom memory, a garment seller who needs usable product images, or a person who wants a clearer record of everyday decisions. I care about the last mile between a promising prototype and something another person can actually use.
+
+## Flagship build
+
+[Tinglan · 听澜](https://github.com/daizhetang-create/tinglan) is my main long-running product: a local-first classroom assistant for recording, bilingual captions, evidence-backed notes and a personal study library. It keeps raw audio on the device, exposes the boundary between local processing and Codex assistance, and treats source timestamps as part of the note rather than decoration.
 
 ## Selected builds
 
 | Project | What it explores |
 | --- | --- |
+| [Tinglan · 听澜](https://github.com/daizhetang-create/tinglan) | Local-first classroom recording, bilingual transcription and evidence-backed study workflows |
 | [LookRoom Studio](https://github.com/daizhetang-create/lookroom-studio) · [Product](https://magic-net-1aj.pages.dev/home) | Local-first AI apparel image workflow for small clothing businesses |
 | [Inkflow](https://github.com/daizhetang-create/inkflow) | Focus sessions and reading traces without turning attention into a scoreboard |
 | [Lighthouse QuantData](https://github.com/daizhetang-create/lighthouse-quantdata) | An auditable market-data control plane with lineage and quality gates |
